@@ -2,9 +2,6 @@
 
 This folder documents the design and development of the **official website for MPSRCU**, a banking recovery agency providing professional recovery and support services to financial institutions.
 
-🔗 **Live Website:**  
-https://mpsrcu.com/ *(replace if different)*
-
 > Note: Source code is not included to protect client confidentiality, regulatory compliance, and live system security. This folder serves as a project showcase only.
 
 ---
