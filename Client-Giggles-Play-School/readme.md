@@ -31,7 +31,7 @@ Special attention was given to **visual appeal, readability, and ease of navigat
 
 ## 🏗️ Website Structure
 
-The website includes key informational sections such as:
+The website includes key informational sections such as :
 
 - Home  
 - About Us  
