@@ -5,7 +5,7 @@ a legal services firm providing professional **legal consultation and advocacy s
 
 🔗 **Live Website:**  
 https://ushalegal.org/
-
+ 
 > Note: Source code is intentionally not included to protect client confidentiality, legal content ownership, and live production systems. This repository is maintained strictly for portfolio and demonstration purposes.
 
 ---
