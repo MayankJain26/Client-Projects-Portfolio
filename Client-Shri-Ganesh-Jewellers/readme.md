@@ -1,5 +1,5 @@
 # Shri Ganesh Jewellers – Jewellery Showcase Website with Enquiry & WhatsApp Integration
-
+ 
 This folder represents the design and development of the **official website for Shri Ganesh Jewellers**,  
 a traditional jewellery brand showcasing a wide range of **gold and jewellery collections** through a **simple, static, and elegant website**.
 
