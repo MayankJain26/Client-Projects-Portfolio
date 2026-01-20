@@ -1,4 +1,4 @@
-# Yarnlay – Yarn E-Commerce Platform with Admin & Customer Dashboards
+# Yarnlay – Yarn E-Commerce Platform with Admin & Customer Dashboard
 
 This folder represents the design and development of **Yarnlay**,  
 a full-featured **e-commerce platform** built to sell **yarn products at competitive prices**, supported by a robust **admin panel** and a **customer dashboard** for seamless buying and order management.
