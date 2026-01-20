@@ -10,7 +10,7 @@ https://www.dpskhurai.in/
 
 ---
 
-## 🏫 Project Overview
+## 🏫 Project Overview 
 
 **DPS Khurai** required a professional and informative website to serve as its **official digital presence** for students, parents, and visitors.  
 The platform acts as a centralized information hub, presenting academic details, infrastructure, events, and announcements in a clear and accessible manner.
