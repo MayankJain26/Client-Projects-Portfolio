@@ -2,7 +2,7 @@
 
 This folder represents the design and development of the **official website for Namo Trading**, a business focused on selling and promoting **water purifiers and water filtration solutions** through a simple, customer-friendly digital platform.
 
-🔗 **Live Website:**  
+🔗 **Live Website:**   
 https://namotrading.in/
 
 > Note: Source code is intentionally not included to protect client data, business logic, and live production assets. This repository is maintained strictly for portfolio and demonstration purposes.
