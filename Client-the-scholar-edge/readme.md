@@ -8,7 +8,7 @@ https://thescholaredge.com/
 
 > Note: Source code is intentionally not included to protect client intellectual property, academic content, and live production systems. This repository is maintained strictly for portfolio and demonstration purposes.
 
----
+--- 
 
 ## 🧩 Project Overview
 
