@@ -9,7 +9,7 @@ https://www.shriganeshjeweller.in/
 > Note: Source code is intentionally not included to protect client branding, content assets, and live production configuration. This repository is maintained strictly for portfolio and demonstration purposes.
 
 ---
-
+ 
 ## 🧩 Project Overview
 
 **Shri Ganesh Jewellers** required a **clean and premium digital presence** that highlights jewellery collections while enabling **easy customer inquiries** through a contact form and **WhatsApp integration**.
