@@ -6,7 +6,7 @@ a centralized **online pathology test booking platform** that allows users to **
 The system is supported by dedicated **Admin**, **Manager**, and **Phlebotomist** panels to manage operations, logistics, and sample collection efficiently.
 
 🔗 **Live Platform:**  
-https://pathologysuvidha.com/
+https://pathologysuvidha.com/ 
 
 > Note: Source code is intentionally not included to protect medical data, operational workflows, and live production systems. This repository is maintained strictly for portfolio and demonstration purposes.
 
