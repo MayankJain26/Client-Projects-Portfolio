@@ -10,7 +10,7 @@ https://alokvividh.com/
 
 ---
 
-## 🧩 Project Overview
+## 🧩 Project Overview 
 
 The primary objective of this project was to design and implement a **single digital entry point** that seamlessly routes users to multiple independent businesses without overlapping content or branding.
 
