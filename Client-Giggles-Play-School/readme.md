@@ -4,7 +4,7 @@
 This folder documents the design and development of the **official website for Giggles Play School**, a preschool and early learning institution focused on providing a safe, joyful, and nurturing environment for young children.
 
 🔗 **Live Website:**  
-https://www.gigglesplayschool.in/
+https://www.gigglesplayschool.in/ 
 
 > Note: Source code is not included to protect client confidentiality and live website integrity. This folder serves as a project showcase only.
 
