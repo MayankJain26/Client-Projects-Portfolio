@@ -12,7 +12,7 @@ https://pathologysuvidha.com/
 
 ---
 
-## 🧩 Project Overview
+## 🧩 Project Overview 
 
 **Pathology Suvidha** was built as a **health-tech aggregator platform** that simplifies the process of discovering, booking, and managing pathology tests across different diagnostic labs.
 
