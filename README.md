@@ -5,7 +5,7 @@ This repository is a curated portfolio of **real-world client projects** that I 
 Each client’s work is organized into a **dedicated folder**, serving as a structured showcase of delivered solutions across different industries and business domains.
 
 ---
-
+ 
 ## Repository Structure
 /client-projects
 │
