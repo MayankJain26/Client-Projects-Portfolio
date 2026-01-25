@@ -11,7 +11,7 @@ Each client’s work is organized into a **dedicated folder**, serving as a stru
 │
 ├── Client_Name_1/
 │ ├── README.md
-│ ├── screenshots/
+│ ├── screenshots/ 
 │ └── (project documentation)
 │
 ├── Client_Name_2/
