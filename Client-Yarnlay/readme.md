@@ -4,7 +4,7 @@ This folder represents the design and development of **Yarnlay**,
 a full-featured **e-commerce platform** built to sell **yarn products at competitive prices**, supported by a robust **admin panel** and a **customer dashboard** for seamless buying and order management.
 
 🔗 **Live Website:**  
-https://yarnlay.com/
+https://demo.yarnlay.com/
 
 > Note: Source code is intentionally not included to protect proprietary business logic, pricing strategies, and live production systems. This repository is maintained strictly for portfolio and demonstration purposes.
 
